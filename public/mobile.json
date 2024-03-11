@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro",
+    "price": 1099.99,
+    "brand": "Apple",
+    "model": "13 Pro",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 1199.99,
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6 Pro",
+    "price": 899.99,
+    "brand": "Google",
+    "model": "Pixel 6 Pro",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 9 Pro",
+    "price": 899.0,
+    "brand": "OnePlus",
+    "model": "9 Pro",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 11",
+    "price": 799.99,
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 6,
+    "name": "Huawei P40 Pro",
+    "price": 899.99,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 7,
+    "name": "Sony Xperia 1 III",
+    "price": 1299.99,
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 8,
+    "name": "LG V60 ThinQ",
+    "price": 899.99,
+    "brand": "LG",
+    "model": "V60 ThinQ",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 9,
+    "name": "Motorola Edge+",
+    "price": 999.99,
+    "brand": "Motorola",
+    "model": "Edge+",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 10,
+    "name": "Asus ROG Phone 5",
+    "price": 999.99,
+    "brand": "Asus",
+    "model": "ROG Phone 5",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 11,
+    "name": "Nokia 9 PureView",
+    "price": 699.99,
+    "brand": "Nokia",
+    "model": "9 PureView",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 12,
+    "name": "Oppo Find X3 Pro",
+    "price": 1099.99,
+    "brand": "Oppo",
+    "model": "Find X3 Pro",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 13,
+    "name": "Realme GT",
+    "price": 599.99,
+    "brand": "Realme",
+    "model": "GT",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 14,
+    "name": "Vivo X60 Pro",
+    "price": 899.99,
+    "brand": "Vivo",
+    "model": "X60 Pro",
+    "image_url": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 15,
+    "name": "BlackBerry Key2",
+    "price": 599.99,
+    "brand": "BlackBerry",
+    "model": "Key2",
+    "image_url": "https://via.placeholder.com/300"
+  }
+]
